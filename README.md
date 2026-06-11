@@ -1,4 +1,4 @@
-[Crypto Price Tracker](https://apify.com/fatihai-tools/crypto-price-tracker?fpr=data)
+[Crypto Price Tracker](https://apify.com/guangyi/crypto-price-tracker?fpr=data)
 
 $/$Skip to content[![Apify logo](/img/apify-logo/wordmark.svg)![Apify logo](/img/apify-logo/wordmark-white.svg)](https://apify.com/)
 
@@ -8,7 +8,7 @@ Start here!
 
 Get data with ready-made web scrapers for popular websites
 
-Browse 27,897 Actors](https://apify.com/store)
+Browse 28,078 Actors](https://apify.com/store)
 
 Apify platform
 
@@ -129,21 +129,21 @@ Talk to scraping experts](https://discord.com/invite/jyEM2PRvMU)
 - [Pricing](https://apify.com/pricing)
 - [Contact sales](https://apify.com/contact-sales)
 
-![Crypto Price Data Scraper - CoinMarketCap Alternative avatar](https://apify.com/img/store/actor_picture.svg)
+![Crypto Price Tracker avatar](https://images.apifyusercontent.com/pey17LW6iCjgZv90u0F1v26cMgoBUcWlUfXTcM3mJb0/rs:fill:250:250/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vdmRiSjk0OTJyNFVYcnBpTEktYWN0b3ItajloRmFid0pkcFczendOQ1EtSXBWTjVDSWxRWS1TY3JlZW5TaG90XzIwMjYtMDMtMDRfMTYwNDAzXzEwNi5wbmc.webp)
 
-Crypto Price Data Scraper - CoinMarketCap Alternative
+Crypto Price Tracker
 
 Pricing
 
 Pay per usage
 
-[Try for free](https://console.apify.com/actors/xIv9PhbpItxhbQRst?addFromActorId=xIv9PhbpItxhbQRst)[Go to Apify Store](https://apify.com/store)![Crypto Price Data Scraper - CoinMarketCap Alternative](https://apify.com/img/store/actor_picture.svg)
+[Try for free](https://console.apify.com/actors/j9hFabwJdpW3zwNCQ?addFromActorId=j9hFabwJdpW3zwNCQ)[Go to Apify Store](https://apify.com/store)![Crypto Price Tracker](https://images.apifyusercontent.com/pey17LW6iCjgZv90u0F1v26cMgoBUcWlUfXTcM3mJb0/rs:fill:250:250/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vdmRiSjk0OTJyNFVYcnBpTEktYWN0b3ItajloRmFid0pkcFczendOQ1EtSXBWTjVDSWxRWS1TY3JlZW5TaG90XzIwMjYtMDMtMDRfMTYwNDAzXzEwNi5wbmc.webp)
 
-# Crypto Price Data Scraper - CoinMarketCap Alternative
+# Crypto Price Tracker
 
-[Try for free](https://console.apify.com/actors/xIv9PhbpItxhbQRst?addFromActorId=xIv9PhbpItxhbQRst)
+[Try for free](https://console.apify.com/actors/j9hFabwJdpW3zwNCQ?addFromActorId=j9hFabwJdpW3zwNCQ)
 
-Track data from Crypto Price fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to CoinMarketCap, CoinGecko. Use for lead generation, market research, competitive analysis.
+Track real-time crypto prices, market caps, volume, and 24h changes for 10,000+ cryptocurrencies from CoinGecko API. Free trial available!
 
 Pricing
 
@@ -157,9 +157,9 @@ Rating
 
 Developer
 
-[![fatih dağüstü](/_next/image?url=https%3A%2F%2Fimages.apifyusercontent.com%2FgIyeDxlfCFcoJEXatFV1exqe2mauCJ6umO7ppMnJ-E0%2Frs%3Afill%3A224%3A224%2Fcb%3A1%2FaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVNULVgwbWtnVm5fYV9UaS1RMGZsMGNKZ2ItUEVscThudGtnMDFzZ1dnWkhEbDlBPXM5Ni1j.webp&w=3840&q=75)
+[![guangyi](/_next/image?url=https%3A%2F%2Fimages.apifyusercontent.com%2FRzzVdvV-TbCg3SfpyvCsRNhRrC0t_Q8J_-jEeYtSSkE%2Frs%3Afill%3A224%3A224%2Fcb%3A1%2FaHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vdmRiSjk0OTJyNFVYcnBpTEktcHJvZmlsZS1hZWhHSG1BQ1piLVNjcmVlblNob3RfMjAyNi0wMi0yN18xNzM3NDlfNTU4LnBuZw.webp&w=3840&q=75)
 
-fatih dağüstü](https://apify.com/fatihai-tools)Maintained by  Community
+guangyi](https://apify.com/guangyi)Maintained by  Community
 
 Actor stats
 
@@ -171,127 +171,137 @@ Bookmarked
 
 Total users
 
-1
+0
 
 Monthly active users
 
-7 days ago
+2 months ago
 
 Last modified
 
 Categories
 
-[Business](https://apify.com/store/categories/business)[Developer tools](https://apify.com/store/categories/developer-tools)
+[Other](https://apify.com/store/categories/other)
 
 Share
 
-[README](https://apify.com/fatihai-tools/crypto-price-tracker)[Input](https://apify.com/fatihai-tools/crypto-price-tracker/input-schema)[Pricing](https://apify.com/fatihai-tools/crypto-price-tracker/pricing)[API](https://apify.com/fatihai-tools/crypto-price-tracker/api/python)[Issues](https://apify.com/fatihai-tools/crypto-price-tracker/issues/open)
+[README](https://apify.com/guangyi/crypto-price-tracker)[Input](https://apify.com/guangyi/crypto-price-tracker/input-schema)[Pricing](https://apify.com/guangyi/crypto-price-tracker/pricing)[API](https://apify.com/guangyi/crypto-price-tracker/api/python)[Issues](https://apify.com/guangyi/crypto-price-tracker/issues/open)
 
 The Actor has no **README.md** file. Sad!
 
 ## You might also like
 
-[### CoinMarketCap Data Scraper - CoinGecko Alternative
+[### CoinGecko Scraper
 
-fatihai-tools / coinmarketcap-scraper
+muscular_quadruplet / coingecko-scraper
 
-Scrape data from CoinMarketCap fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to CoinGecko. Use for lead generation, market research, competitive analysis.
+Scrape cryptocurrency data from CoinGecko. Get prices, market caps, volumes, 24h changes for any coin. Track crypto trends, build price alerts, analyze market data. Real-time crypto scraping.
 
-![User avatar](https://images.apifyusercontent.com/3hqpkgYhriHguznw66rIW11nfPTLFOJ1VQLgxuDwM-M/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcFIxNmd0MWYwNERSLWpOTVFJWU9rUGFVNmpNT1NYZFRPUmFUenZicmtDQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTVk5VTFZnd2JXdG5WbTVmWVY5VWFTMVJNR1pzTUdOS1oySXRVRVZzY1RodWRHdG5NREZ6WjFkbldraEViRGxCUFhNNU5pMWo.webp)
+![User avatar](https://images.apifyusercontent.com/V15ssuI4YZtVyP10GWZYmjV9mfWd7mSvUi9lLNtoM9c/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vbnJDT24wMGtVV0JXYWNnOThwYVZnc2NpOFk3Y2RGYVFYQ0VtNUJBYUtzUS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTWGRvTFZCRE1GWmllbmhGVm1KRmJWZG1ja3BHVDJOTGIzTnZialprZUdoSWRtMHpTa2szTFdSRlVVaEpaWGQxUlE.webp)
 
-fatih dağüstü
+Do It
 
-2](https://apify.com/fatihai-tools/coinmarketcap-scraper)[### Google Reviews Data Scraper - Trustpilot scraper Alternative
+-](https://apify.com/muscular_quadruplet/coingecko-scraper)[### CoinMarketCap Crypto Price Tracker
 
-fatihai-tools / google-reviews-scraper
+fortuitous_pirate / coinmarketcap-crypto-tracker
 
-Scrape data from Google Reviews fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to Trustpilot scraper. Use for lead generation, market research, competitive analysis.
+Track cryptocurrency prices from CoinMarketCap. Get real-time prices, market caps, 24h changes, volume, and rankings for all major coins. Essential for crypto analysis.
 
-![User avatar](https://images.apifyusercontent.com/3hqpkgYhriHguznw66rIW11nfPTLFOJ1VQLgxuDwM-M/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcFIxNmd0MWYwNERSLWpOTVFJWU9rUGFVNmpNT1NYZFRPUmFUenZicmtDQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTVk5VTFZnd2JXdG5WbTVmWVY5VWFTMVJNR1pzTUdOS1oySXRVRVZzY1RodWRHdG5NREZ6WjFkbldraEViRGxCUFhNNU5pMWo.webp)
+![User avatar](https://images.apifyusercontent.com/8JeKpijqTl7G8i50eCe0PpBnie_-hPRhosraMzNT46o/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vNXNtNUpBWHdTbWxZbVV3VUxQT3AyblFTN1hSZ3JRS3Qtdk1CRmVlMlBfVS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTloZG1GMFlYSnpMbWRwZEdoMVluVnpaWEpqYjI1MFpXNTBMbU52YlM5MUx6RXlNelEwTWpNMU1B.webp)
 
-fatih dağüstü
+Fortuitous Pirate
 
-6](https://apify.com/fatihai-tools/google-reviews-scraper)[### Company Data Data Scraper - Crunchbase Alternative
+3](https://apify.com/fortuitous_pirate/coinmarketcap-crypto-tracker)[![🪙 CoinGecko Crypto Scraper — Prices & Market Cap avatar](https://images.apifyusercontent.com/vuhF2__Vw-J7qhe2NOuc_yDng15G3KJWHl3gK0Q-9jg/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vUFFZaExmMkt1NllxeUNXYngtYWN0b3ItNmtOQUV1cVVxTVN2RTU0WHMtYUVDVHdBSWhEYS1pY29uLnBuZw.webp)
 
-fatihai-tools / company-info-scraper
+### 🪙 CoinGecko Crypto Scraper — Prices & Market Cap
 
-Scrape data from Company Data fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to Crunchbase, ZoomInfo. Use for lead generation, market research, competitive analysis.
+nexgendata / coingecko-scraper
 
-![User avatar](https://images.apifyusercontent.com/3hqpkgYhriHguznw66rIW11nfPTLFOJ1VQLgxuDwM-M/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcFIxNmd0MWYwNERSLWpOTVFJWU9rUGFVNmpNT1NYZFRPUmFUenZicmtDQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTVk5VTFZnd2JXdG5WbTVmWVY5VWFTMVJNR1pzTUdOS1oySXRVRVZzY1RodWRHdG5NREZ6WjFkbldraEViRGxCUFhNNU5pMWo.webp)
+Extract crypto prices, market caps, trading volumes from CoinGecko. Track 10,000+ tokens with price alerts and trend analysis.
 
-fatih dağüstü
+![User avatar](https://images.apifyusercontent.com/eJfYzH6R9FUh7RjcG0Y7Q4oLejZri1wRx2ju_x61WGk/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vbjlFck1TckM1ZVRzcjhwZ1RGNmNEd3UwX2NuczlJdnZFakNLODQ3c09pRS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTkzZDNjdVozSmhkbUYwWVhJdVkyOXRMMkYyWVhSaGNpOW1ZemhtTm1Rd1pqUmxNVFZoTkRobE5ERmhaVFUzTnpNelpXRTFNR0kwTW1ZeE1UQm1OREZsWWpObU9EZ3daV1ppT1dKaU1qTXhabUV4TWpnMk9XUTRQMlE5YUhSMGNITWxNMEVsTWtZbE1rWmpaRzR1WVhCcFpua3VZMjl0SlRKR2FXMW5KVEpHYVdOdmJuTWxNa1poYm05dWVXMXZkWE5mZFhObGNsOXdhV04wZFhKbExuQnVadw.webp)
 
-7](https://apify.com/fatihai-tools/company-info-scraper)[### Ip Data Scraper - competitors Alternative
+Stephan Corbeil
 
-fatihai-tools / ip-geolocation
+2](https://apify.com/nexgendata/coingecko-scraper)[![CoinGecko Crypto Data - Prices & Market avatar](https://images.apifyusercontent.com/pYb8DWaEF2Nh2HH2c4nW78CYSVDaAkyvn0DF4o8awqc/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vcUhCNFdCdVdsUmtraUdIWXctYWN0b3ItdXFjcGJPcVB1Q1RRb01MUnQtVUhZM0pycmxNSC1jb2luZ2Vja28tY3J5cHRvLWRhdGEucG5n.webp)
 
-Scrape data from Ip fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to competitors. Use for lead generation, market research, competitive analysis.
+### CoinGecko Crypto Data - Prices & Market
 
-![User avatar](https://images.apifyusercontent.com/3hqpkgYhriHguznw66rIW11nfPTLFOJ1VQLgxuDwM-M/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcFIxNmd0MWYwNERSLWpOTVFJWU9rUGFVNmpNT1NYZFRPUmFUenZicmtDQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTVk5VTFZnd2JXdG5WbTVmWVY5VWFTMVJNR1pzTUdOS1oySXRVRVZzY1RodWRHdG5NREZ6WjFkbldraEViRGxCUFhNNU5pMWo.webp)
+pink_comic / coingecko-crypto-data
 
-fatih dağüstü
+Real-time crypto data from CoinGecko API. Prices, market caps, volume, ATH, trending coins, global stats for 17,000+ cryptocurrencies. Market rankings, coin details, trending, and global overview modes. For crypto traders, portfolio trackers, DeFi researchers, fintech apps. Pay per result.
 
-2](https://apify.com/fatihai-tools/ip-geolocation)[### Yelp Data Scraper - Google Maps Alternative
+![User avatar](https://images.apifyusercontent.com/xHIQ8NPgSWhC7jbdKz1bniz5JDgrODfO99BuuEXmJbQ/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vV19KMWN2OFBpYlc5enZjT2ZWUVcxTnNyQVk1eU9Sd0F3QkMwWWYzWGpRSS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTloY0dsbWVTMXBiV0ZuWlMxMWNHeHZZV1J6TFhCeWIyUXVjek11ZFhNdFpXRnpkQzB4TG1GdFlYcHZibUYzY3k1amIyMHZjVWhDTkZkQ2RWZHNVbXRyYVVkSVdYY3RjSEp2Wm1sc1pTMW1NakYwYkdwVFFraDNMWE5qY21WbGJuTm9iM1JmTWpBeU5pMHdNeTB5TkY5aGRGODRMalExTGpFMVgwRk5MbkJ1WncucG5n.webp)
 
-fatihai-tools / yelp-business-scraper
+Ava Torres
 
-Scrape data from Yelp fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to Google Maps, TripAdvisor. Use for lead generation, market research, competitive analysis.
+4](https://apify.com/pink_comic/coingecko-crypto-data)[### CoinGecko Crypto Scraper
 
-![User avatar](https://images.apifyusercontent.com/3hqpkgYhriHguznw66rIW11nfPTLFOJ1VQLgxuDwM-M/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcFIxNmd0MWYwNERSLWpOTVFJWU9rUGFVNmpNT1NYZFRPUmFUenZicmtDQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTVk5VTFZnd2JXdG5WbTVmWVY5VWFTMVJNR1pzTUdOS1oySXRVRVZzY1RodWRHdG5NREZ6WjFkbldraEViRGxCUFhNNU5pMWo.webp)
+janbruinier / coingecko-scraper
 
-fatih dağüstü
+Scrape cryptocurrency prices, market cap, volume, and token data from CoinGecko. Get real-time and historical crypto market data in JSON.
 
-2](https://apify.com/fatihai-tools/yelp-business-scraper)[### Yelp Data Scraper - Google Maps Alternative
+![User avatar](https://images.apifyusercontent.com/d8JWdTG1zmeP_36IP6VRNYJ4ex_UHVMVriTFktSv8Ws/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20veG1iZlpUMUFDZ1ZIWTlOUXhXNEVQdTg0RjkxM1duVWxwdzZSNENKVFV2cy9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpUSE5yVlZaR2JVbHBTVVIyZW5ac01EbHFOa2xrV0d4aE9YbzNjWEZFUTJKT1psZzVkbkF0U0RCSFNYRXhRa3BmV1dWR1VUMXpPVFl0WXc.webp)
 
-fatihai-tools / yelp-food-scraper
+Jan Bruinier
 
-Scrape data from Yelp fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to Google Maps, TripAdvisor. Use for lead generation, market research, competitive analysis.
+2](https://apify.com/janbruinier/coingecko-scraper)[![CoinGecko Scraper avatar](https://images.apifyusercontent.com/E1pnJkBVae5bngai3P07ceyoiAf2Pv_SHUQY5rr3LAM/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vbnRIQ25oTlVrelhSN25iVVotYWN0b3ItaFgyaEp1dUNHSkVFNVZrOGktM3hTVGoxNjc4ay1hY3Rvci1pY29uLnBuZw.webp)
 
-![User avatar](https://images.apifyusercontent.com/3hqpkgYhriHguznw66rIW11nfPTLFOJ1VQLgxuDwM-M/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcFIxNmd0MWYwNERSLWpOTVFJWU9rUGFVNmpNT1NYZFRPUmFUenZicmtDQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTVk5VTFZnd2JXdG5WbTVmWVY5VWFTMVJNR1pzTUdOS1oySXRVRVZzY1RodWRHdG5NREZ6WjFkbldraEViRGxCUFhNNU5pMWo.webp)
+### CoinGecko Scraper
 
-fatih dağüstü
+automation-lab / coingecko-scraper
 
-2](https://apify.com/fatihai-tools/yelp-food-scraper)[### TripAdvisor Data Scraper - Booking Alternative
+Extract crypto market data from CoinGecko. Get prices, market caps, volumes, 24h changes, and supply for 14,000+ coins. Filter by category (DeFi, meme, stablecoins). Pay per result.
 
-fatihai-tools / tripadvisor-travel-scraper
+![User avatar](https://images.apifyusercontent.com/2BFUHuGfbLY2pRm_Mp4LyoIgIzEX6NVldfIQNo9wi9E/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vVGVzYlZ0a2twdnh2M09nRWxvYThCdkdLX1NrNXdTck1sZWl2Ni1jeG9hSS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTloZG1GMFlYSnpMbWRwZEdoMVluVnpaWEpqYjI1MFpXNTBMbU52YlM5MUx6Z3pNekU1TWo5MlBUUQ.webp)
 
-Scrape data from TripAdvisor fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to Booking, Expedia. Use for lead generation, market research, competitive analysis.
+Stas Persiianenko
 
-![User avatar](https://images.apifyusercontent.com/3hqpkgYhriHguznw66rIW11nfPTLFOJ1VQLgxuDwM-M/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcFIxNmd0MWYwNERSLWpOTVFJWU9rUGFVNmpNT1NYZFRPUmFUenZicmtDQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTVk5VTFZnd2JXdG5WbTVmWVY5VWFTMVJNR1pzTUdOS1oySXRVRVZzY1RodWRHdG5NREZ6WjFkbldraEViRGxCUFhNNU5pMWo.webp)
+2](https://apify.com/automation-lab/coingecko-scraper)[### Crypto Price API | CoinGecko Scraper & Market Data
 
-fatih dağüstü
+andok / coingecko-scraper
 
-2](https://apify.com/fatihai-tools/tripadvisor-travel-scraper)[### Zillow Data Scraper - Redfin Alternative
+Scrape real-time crypto prices, market caps, and trading volumes. A high-speed CoinGecko API alternative for trading bots and portfolio trackers.
 
-fatihai-tools / zillow-property-scraper
+![User avatar](https://images.apifyusercontent.com/ZkPjYJ1sTRdNBOVIbQon0YZEgDH3WH_bGt3yi7lWMtI/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vUnUtOUgxQm5NdnFoUDRxM0F5dnJCNFh5VjhZVUtkZXRYbXc5UjZ4dXMwMC9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTloY0dsbWVTMXBiV0ZuWlMxMWNHeHZZV1J6TFhCeWIyUXVjek11ZFhNdFpXRnpkQzB4TG1GdFlYcHZibUYzY3k1amIyMHZORWczVEhCYWJuaHdZWFU0TlUweVMzUXRjSEp2Wm1sc1pTMVRiV2wyZG5KblpuUlJMV0Z1Wkc5ckxXRjJZWFJoY2k1d2JtYy5wbmc.webp)
 
-Scrape data from Zillow fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to Redfin, Realtor. Use for lead generation, market research, competitive analysis.
+Andok
 
-![User avatar](https://images.apifyusercontent.com/3hqpkgYhriHguznw66rIW11nfPTLFOJ1VQLgxuDwM-M/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcFIxNmd0MWYwNERSLWpOTVFJWU9rUGFVNmpNT1NYZFRPUmFUenZicmtDQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTVk5VTFZnd2JXdG5WbTVmWVY5VWFTMVJNR1pzTUdOS1oySXRVRVZzY1RodWRHdG5NREZ6WjFkbldraEViRGxCUFhNNU5pMWo.webp)
+3](https://apify.com/andok/coingecko-scraper)[### CoinGecko Crypto Scraper
 
-fatih dağüstü
+cloud9_ai / coingecko-crypto-scraper
 
-2](https://apify.com/fatihai-tools/zillow-property-scraper)[### Realtor.com Data Scraper - Zillow Alternative
+Extract cryptocurrency market data from CoinGecko: price, market cap, 24h volume, circulating supply, price changes (1h/24h/7d/30d), ATH/ATL, sparkline. Sort by market cap, volume, trend. Filter by category (DeFi, NFT, Layer 1). Real-time data via CoinGecko API.
 
-fatihai-tools / realtor-scraper
+![User avatar](https://images.apifyusercontent.com/asTfz15pizt6qRGFIkRo4GWYX0hbqvzIIwBaLmAs9yg/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vZ1VCN0xqZkdNcldFQUU4cEtMV3dSV3gzSFpVcVhicW9sbjd2MWxFNHhCMC9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTloZG1GMFlYSnpMbWRwZEdoMVluVnpaWEpqYjI1MFpXNTBMbU52YlM5MUx6WXdOVFEyTVRNMlAzWTlOQQ.webp)
 
-Scrape data from Realtor.com fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to Zillow, Redfin. Use for lead generation, market research, competitive analysis.
+cloud9
 
-![User avatar](https://images.apifyusercontent.com/3hqpkgYhriHguznw66rIW11nfPTLFOJ1VQLgxuDwM-M/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcFIxNmd0MWYwNERSLWpOTVFJWU9rUGFVNmpNT1NYZFRPUmFUenZicmtDQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTVk5VTFZnd2JXdG5WbTVmWVY5VWFTMVJNR1pzTUdOS1oySXRVRVZzY1RodWRHdG5NREZ6WjFkbldraEViRGxCUFhNNU5pMWo.webp)
+2](https://apify.com/cloud9_ai/coingecko-crypto-scraper)[![CoinGecko Crypto Intelligence avatar](https://images.apifyusercontent.com/eGaadTTPcgXoMZdt3Kpxi8OdramsE3v91l93pyw1qgQ/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vT3JOQ0NWNm8xajU1THlPVFotYWN0b3Ita0NjUWdSNXViV3htaXF3YkctbzY3Y2lqWTBUZC1HZW1pbmlfR2VuZXJhdGVkX0ltYWdlX2Z4bXVhMmZ4bXVhMmZ4bXUuanBn.webp)
 
-fatih dağüstü
+### CoinGecko Crypto Intelligence
 
-2](https://apify.com/fatihai-tools/realtor-scraper)[### Craigslist Data Scraper - Facebook Marketplace Alternative
+benthepythondev / crypto-intelligence
 
-fatihai-tools / craigslist-scraper
+Extract real-time cryptocurrency market data from CoinGecko for 10,000+ coins. Get prices, market caps, volume, 24h/7d/30d changes, ATH/ATL, supply metrics, and historical charts. Access trending coins, category breakdowns, and detailed coin info including community/developer stats
 
-Scrape data from Craigslist fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to Facebook Marketplace. Use for lead generation, market research, competitive analysis.
+![User avatar](https://images.apifyusercontent.com/2uHzQHA1ompnXtYvA4IUQM5GaLvBCLIBmsVFdLt-evY/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vVzhUaGJqVkNtY24taDZwUUo5ZmM3ME9KajlUcFhGc1VHUGlDUUxpMF9Cdy9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTloY0dsbWVTMXBiV0ZuWlMxMWNHeHZZV1J6TFhCeWIyUXVjek11ZFhNdFpXRnpkQzB4TG1GdFlYcHZibUYzY3k1amIyMHZUM0pPUTBOV05tOHhhalUxVEhsUFZGb3RjSEp2Wm1sc1pTMTJNRlZsUjJkMVMyaHNMV0psYm5Sb1pYQjVkR2h2Ym1SbGRpNXdibWMucG5n.webp)
 
-![User avatar](https://images.apifyusercontent.com/3hqpkgYhriHguznw66rIW11nfPTLFOJ1VQLgxuDwM-M/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcFIxNmd0MWYwNERSLWpOTVFJWU9rUGFVNmpNT1NYZFRPUmFUenZicmtDQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTVk5VTFZnd2JXdG5WbTVmWVY5VWFTMVJNR1pzTUdOS1oySXRVRVZzY1RodWRHdG5NREZ6WjFkbldraEViRGxCUFhNNU5pMWo.webp)
+ben
 
-fatih dağüstü
+11](https://apify.com/benthepythondev/crypto-intelligence)[![Crypto Analytics Scraper (CoinGecko) avatar](https://images.apifyusercontent.com/rTdWbQQ82udqZY9OPadJqdZKRo5Pu-jPXV0iuDekgMM/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vUHZPa0xsNkszQTVvM1FoSXktYWN0b3ItUnFTQWphY2s4bHpieVpLR00td0xZRTNjYlh4dC1jcnlwdG9fYW5hbHl0aWNzX2ljb25fMTc3MjY4MTMzMzgzOS5wbmc.webp)
 
-2](https://apify.com/fatihai-tools/craigslist-scraper)$/$
+### Crypto Analytics Scraper (CoinGecko)
+
+juryless_lens / crypto-analytics-scraper
+
+Extracts: Rank, token name, symbol, current price, 1h/24h/7d percentage changes, market cap, 24h trading volume, and CoinGecko URL. Handles pagination automatically for large datasets. Supports filtering by CoinGecko categories like "layer-1", "decentralized-finance-defi", or "meme-token"
+
+![User avatar](https://images.apifyusercontent.com/L1Ah7Ar8HtES8MlwaHwqftGr5rFNt7mlNcukcMqQO2I/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vb29zT3dOMzNpeXBmQjdfRE90N1pnR1ZhdGxpZUZKOTk3VDgzcVJxZW11SS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTM3ByTmt0R1RXSlRaemgyU0RocU4xbzJVbXN3YTJSTU5HcHphR2h0U2pSNFNVWm1UbXM0WjA1Q1NHOXJVSGhDVlQxek9UWXRZdw.webp)
+
+Brian
+
+2](https://apify.com/juryless_lens/crypto-analytics-scraper)$/$
 
 Product
 
